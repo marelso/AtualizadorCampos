@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appSettings>
+        <path key="C:\Users\user\Downloads\Tabela"/>
+        <archive key="Tabelas_Dinamicas_ECF_Leiaute_8_AC2021_SIT_ESP_2022.xlsx"/>
+        <column key="DESCRIÇÃO"/>
+        <dataframe key="M350C"/>
+        <tablename key="Teste"/>
+    </appSettings>
+    <connectionString>
+        <driver key="SQL Server Native Client 11.0;"/>
+        <server key="DESKTOP-IMPS2I4\SQLEXPRESS;"/>
+        <database key="Tabelas;"/>
+        <username key="Marelso"/>
+        <password key="#Marelso"/>
+    </connectionString>
+</configuration>
